@@ -1,0 +1,16 @@
+{
+  "query": "colorful cupcakes dessert",
+  "source": "Pexels (royalty-free placeholder)",
+  "items": [
+    {
+      "file": "/Users/eliasmouawad/dev/blkprint/_sources/renovation-factory/bakedbya/public/img/hero-1.jpg",
+      "pexels_url": "https://www.pexels.com/photo/close-up-photo-of-sweet-cupcakes-4981623/",
+      "photographer": "Wilson Ren"
+    },
+    {
+      "file": "/Users/eliasmouawad/dev/blkprint/_sources/renovation-factory/bakedbya/public/img/hero-2.jpg",
+      "pexels_url": "https://www.pexels.com/photo/colorful-cupcakes-on-plate-15896658/",
+      "photographer": "Vikram Pataskar"
+    }
+  ]
+}

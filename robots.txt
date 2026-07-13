@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emouawad2.github.io/bakedbya-preview/sitemap.xml
